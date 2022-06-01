@@ -6,4 +6,4 @@ The purpose of the research is to apply Articifical Intelligence (AI) approach t
 
 I bet the scripts more or less cover the full-stack service - editing, cleaning.., and modelling.  They may be of use to others.  I did not apply subclass to build a model.  It is easier to avoid mistakes by using model or functional APIs.
 
-I may mention that I acquired most of the skills from Dr. Adrian Rosebrock's [site](https://pyimagesearch.com){:target="_blank" rel="noopener"} and also Dr. Jason Brownlee's [site] (https://machinelearningmastery.com/){:target="_blank" rel="noopener"}.
+I may mention that I acquired most of the skills from Dr. Adrian Rosebrock's [site](https://pyimagesearch.com) and also Dr. Jason Brownlee's [site] (https://machinelearningmastery.com/).
